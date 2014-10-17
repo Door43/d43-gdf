@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gdf:home|Door43 (gdf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gdf|d43-gdf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gdf/archive/master.zip|d43-gdf.zip]]
+
+**Recent Changes**
+{{changes>ns = gdf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gdf|Ethnologue data]]
+
